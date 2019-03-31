@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/emahuni/extend-module#readme",
   "dependencies": {
-    "contrace": "^0.6.0",
+    "contrace": "^0.7.3",
     "lodash": "^4.17.11"
   },
   "devDependencies": {
