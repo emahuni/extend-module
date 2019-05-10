@@ -1,5 +1,4 @@
 const {isString, isArray, cloneDeep, merge} = require('lodash');
-const console = require('contrace')();
 const util = require('util');
 const path = require('path');
 
