@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "npx mocha"
   },
   "repository": {
     "type": "git",
@@ -32,10 +32,10 @@
   },
   "homepage": "https://github.com/emahuni/extend-module#readme",
   "dependencies": {
-    "contrace": "^0.7.3",
     "lodash": "^4.17.11"
   },
   "devDependencies": {
+    "contrace": "^0.7.3",
     "chai": "^4.2.0",
     "mocha": "^5.2.0"
   }
