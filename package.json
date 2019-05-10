@@ -1,6 +1,6 @@
 {
   "name": "extend-module",
-  "version": "0.3.2",
+  "version": "0.4.0",
   "description": "Extend given module(s) with specified object. Use for extending object modules that you require and install as npm packages.",
   "main": "index.js",
   "directories": {
